@@ -1,3 +1,6 @@
+This fork fixes an issue with regex parsing recent kinds of errors, and it
+shows the text of the lines that failed.
+
 # exception.vim
 
 Vim plugin for tracing exceptions thrown by VimL scripts.  The most recent
